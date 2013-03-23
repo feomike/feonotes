@@ -27,7 +27,7 @@ I then used [TileMill](http://mapbox.com/tilemill/) to create a simple map of th
 - [TileMill Map Project Fle](maps/faa_20130322.mml)
 
 ####Visualizations
-- [MapBox Example Visualization]https://tiles.mapbox.com/feomike/edit/map-vl7gh805#4.00/39.21/-98.56)
+- [MapBox Example Visualization](https://tiles.mapbox.com/feomike/edit/map-vl7gh805#4.00/39.21/-98.56)
 
 
 ##Costs
