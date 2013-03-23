@@ -25,8 +25,6 @@ The new data files can be found below and so can a brief description of how I di
 - [Data File - geojson](data/FAA_closed_20130322.geojson)
 - [TileMill Map Project Fle](maps/faa_20130322.mml)
 
-####Visualizations
-- [MapBox Example Visualization](http://tiles.mapbox.com/feomike/map/map-vl7gh805#4.00/38.75/-96.61)
 
 ##How I Did It
 I first copied the data from the pdf above, into this [text](data/faa_closed_20130322.csv).  This 'data file' is essentially one row per newly proposed closed airport by the FAA.  I saved that document to an excel file, and uploaded that file to [this google document sheet](https://docs.google.com/spreadsheet/ccc?key=0Aooxb2GcQ9ifdDRWOVBLUU1ocHRuNFRSUjNwVUZjYmc&usp=sharing).  I edited the columns slightly, to concatenate the columns (see column F) into a more readible place name; one that was more likely to be found by a geocoder.  I then used [this process](http://mapbox.com/blog/mapping-google-doc-spreadsheet/) to associate each row (e.g. airport) with its latitude and longitude.
