@@ -4,7 +4,7 @@ title: feoNotes - notes and reflections from feoMike
 catch: This page are notes of mine; entirely a work of my own and not in any way associated with my employer.
 ---
 
-##Background
+##FAA Airport Closures
 On Friday, March 22, 2013, the Federal Aviation Administration released this [press release](http://www.faa.gov/news/press_releases/news_story.cfm?newsId=14414) describing a "decision that 149 federal contract towers will close beginning April 7 as part of the agency’s sequestration implementation plan." 
 
 In addition to the release was a [document](http://www.faa.gov/news/media/fct_closed.pdf) listing the individual name, city, state and airport identification signs of those towers to be closed.
