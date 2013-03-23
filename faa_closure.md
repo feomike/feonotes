@@ -15,7 +15,7 @@ Working on a previous [conclusion](http://feomike.github.com/state_seq/) that pe
 
 
 <iframe width='700' height='400' frameBorder='0' src='http://a.tiles.mapbox.com/v3/feomike.map-vl7gh805.html#4/38/-96.60'></iframe>
-
+[Link to full map](http://a.tiles.mapbox.com/v3/feomike.map-vl7gh805.html#4/38/-96.60)
 
 
 
