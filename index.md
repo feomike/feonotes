@@ -38,4 +38,4 @@ For all intents and purposes, this process was essentally free and took little t
 
 
 ##Notes
-The process is simple repeatable, but more importantly, the impact of the news item is much more clearly represented.  In my (our) previous experiment, independent (new applications)[http://chelm.github.com/state_seq/examples/states.html] sprung up.  I expect the same might be true here.
+The process is simple repeatable, but more importantly, the impact of the news item is much more clearly represented.  In my (our) previous experiment, independent [new applications](http://chelm.github.com/state_seq/examples/states.html) sprung up.  I expect the same might be true here.
